@@ -1,4 +1,4 @@
-# promiseofcake/circleci-trigger-action
+# vsco/circleci-trigger-action
 
 Github Action to trigger workflow runs via [API call in CircleCi](https://circleci.com/docs/api/v2/#get-a-pipeline-39-s-workflows).
 
